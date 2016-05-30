@@ -2,11 +2,109 @@
 <items version="2" >
 
     <item
+        jar="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0f6ebea87a2feaeda563fbb0fa5cb92aff35a17">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2a1ac0cd162209ed95adc0fd3c037c7d901e037c\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_2cfc1d5ef646960621fe9a1b3972524aae245144\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.1.1_5e4eecccf5b01d085e4c68d542d372a9783f3674\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\codes\MaterialDesignProject\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_fbc94611aa126bc3dadda036221455be9f24ed95\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.1_7753655bcdb335f9ceda6cd4f69e536c56e4f2db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\semwa\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_13b114caa0cee6324e0b512fe59415d87e38233d\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_8be5c4448dbfd4801003658cb8a2a0c914638ac2\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-23.1.1_79676ace12998295a8ad6bca1b0c01c1d976a248\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\semwa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_f8d89e967432d8282ed186b0c8ec2715d9d9bbfc\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_97bc1e07bec525f49c22284980935d7971d2b710\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_9940bce1d975572c7ddb2d04ab11454e1d7b9588\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_20853d10155a820359ba5b3e7922ffbd23548fe3\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_c2282d633a5d5d917630b929c8fb04e866ff5a71\classes.dex" />
+    </item>
+    <item
         jar="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
-        revision="23.0.3"
-        sha1="2fd50a37d308a35ac7f4ca5efb8cb9a5b446d71e">
+        revision="23.0.2"
+        sha1="98953aac78cffecdc26cc506956a85f3fc80270a">
         <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_703385d67bed45aa68a7d9ea4c5fbe5ba3788976\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="E:\Android\codes\MaterialDesignProject\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_e68196e8a97aa88e0723c6c9e99bd01443e0103b\classes.dex" />
     </item>
 
 </items>

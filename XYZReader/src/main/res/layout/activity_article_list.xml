@@ -17,10 +17,13 @@
             android:layout_height="match_parent"
             android:background="@color/primary"
             android:gravity="bottom"
+            android:minHeight="?attr/actionBarSize"
             android:paddingLeft="@dimen/abc_dialog_padding_material"
             android:paddingStart="@dimen/abc_dialog_padding_material"
+            app:layout_collapseMode="pin"
             app:layout_scrollFlags="scroll|enterAlways"
             app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
 
             <ImageView
                 android:id="@+id/ivLogo"

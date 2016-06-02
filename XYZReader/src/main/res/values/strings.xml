@@ -9,5 +9,6 @@
 
     <string name="up">Up</string>
     <string name="no_information_available">Nothing to display</string>
+    <string name="transition_photo">transition_photo</string>
 
 </resources>
